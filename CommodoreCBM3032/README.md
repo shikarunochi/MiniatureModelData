@@ -7,3 +7,5 @@ FLASHFORGE Adventure3
 ## Filament
 MODERA:PLA
 <https://flashforge.co.jp/modera-filament/>
+
+(https://github.com/shikarunochi/MiniatureModelData/blob/main/CommodoreCBM3032/cbm3032_1.jpg)
