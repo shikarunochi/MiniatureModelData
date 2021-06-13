@@ -9,3 +9,5 @@ MODERA:PLA
 <https://flashforge.co.jp/modera-filament/>
 
 ![SamileImage1](https://github.com/shikarunochi/MiniatureModelData/blob/main/CommodoreCBM3032/cbm3032_1.jpg)
+1.3inch LCD
+![SamileImage1](https://github.com/shikarunochi/MiniatureModelData/blob/main/CommodoreCBM3032/cbm3032_2.jpg)
